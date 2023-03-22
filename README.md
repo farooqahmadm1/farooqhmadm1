@@ -18,7 +18,7 @@ Hi, I am Farooq Ahmad Android Developer currently working at Bitsmedia, currentl
 ![Spring-Boot](https://img.shields.io/badge/-SpringBoot-000?&logo=SpringBoot&logoColor=007396)
 
 ## Goals for 2023:
-I would like to learn more than 2020 and I am focused to move overseas to live a new experience and grow-up as Android developer.
+I would like to learn more than 2022 and I am focused to move overseas to live a new experience and grow-up as Android developer.
 
 ## Get in touch:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farooq-ahmad-98bb5b11a/)
